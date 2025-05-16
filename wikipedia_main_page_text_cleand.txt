@@ -1,0 +1,3729 @@
+github wikipedia
+jump to content
+main menu
+main menu
+move to sidebar
+hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+help
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+search
+search
+appearance
+donate
+create account
+log in
+personal tools
+donate
+create account
+log in
+pages for logged out editors
+learn more
+contributions
+talk
+contents
+move to sidebar
+hide
+top
+
+about
+toggle about subsection
+
+founding
+
+structure of the organization
+
+finance
+
+history
+
+acquisition by microsoft
+
+mascot
+
+services
+toggle services subsection
+
+scope
+
+github enterprise
+
+github pages
+
+github actions
+
+gist
+
+education program
+
+github marketplace service
+
+github sponsors
+
+github archive program
+
+controversies
+toggle controversies subsection
+
+harassment allegations
+
+sanctions
+
+censorship
+
+ice contract
+
+capitol riot comments and employee firing
+
+twitter source code leak
+
+reception
+
+see also
+
+references
+
+external links
+toggle the table of contents
+github
+languages
+
+aragons
+
+azrbaycanca
+
+
+bnlmg
+
+
+catal
+etina
+deutsch
+eesti
+
+espaol
+esperanto
+euskara
+
+franais
+gaeilge
+hakkng
+
+hausa
+
+
+bahasa indonesia
+slenska
+italiano
+
+
+
+latvieu
+magyar
+
+bahasa melayu
+mngdngng
+
+nederlands
+
+norsk bokml
+ozbekcha
+polski
+portugus
+qaraqalpaqsha
+romn
+runa simi
+
+shqip
+simple english
+slovenina
+slovenina
+
+srpski
+suomi
+svenska
+
+tatara
+
+
+trke
+
+
+uyghurche
+vneto
+ting vit
+
+
+
+edit links
+article
+talk
+english
+read
+edit
+view history
+tools
+tools
+move to sidebar
+hide
+actions
+read
+edit
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+download qr code
+printexport
+download as pdf
+printable version
+in other projects
+wikimedia commons
+mediawiki
+wikibooks
+wikinews
+wikidata item
+appearance
+move to sidebar
+hide
+from wikipedia the free encyclopedia
+software development collaboration platform
+not to be confused with
+git
+or
+gitlab
+
+github
+github invertocat logo
+repository of the websites
+official document
+storing its source code
+type of business
+subsidiary
+type of site
+collaborative
+version control
+available in
+english
+founded
+february
+years ago
+
+
+
+as logical awesome llc
+
+
+
+headquarters
+san francisco
+california us
+area served
+worldwide
+founders
+tom prestonwerner
+chris wanstrath
+p j hyett
+scott chacon
+key people
+thomas dohmke ceo
+mike taylor cfo
+kyle daigle coo
+industry
+collaborative
+version control
+github
+ai development tools
+github copilot
+
+web host
+github pages
+package repository
+
+npm
+
+revenue
+billion
+
+
+
+employees
+
+
+
+
+parent
+microsoft
+present
+url
+github
+com
+ipv
+support
+no
+
+
+
+
+
+
+registration
+optional required for creating and joining repositories
+users
+million as of january
+
+
+launched
+april
+years ago
+
+
+
+current status
+active
+written in
+ruby
+javascript
+go
+c
+
+
+
+rust
+
+
+
+asn
+
+github
+
+
+
+
+
+t
+h
+
+b
+
+
+is a
+proprietary
+developer platform that allows developers to create store manage and share their code it uses
+git
+to provide
+distributed version control
+and github itself provides
+access control
+
+bug tracking
+
+software feature
+requests
+task management
+
+continuous integration
+and
+wikis
+for every project
+
+
+
+headquartered in
+california
+
+github inc
+has been a subsidiary of
+microsoft
+since
+
+
+
+it is commonly used to host
+open source
+software development projects
+
+
+
+as of january
+
+github reported having over million developers
+
+
+
+and more than million
+repositories
+
+
+
+
+including at least million public repositories
+
+
+
+it is the worlds largest
+source code
+host as of june
+
+over five billion developer contributions were made to more than million open source projects in
+
+
+
+about
+
+edit
+
+founding
+
+edit
+
+the development of the github platform began on october
+
+
+
+
+
+
+
+
+
+the site was launched in april by
+tom prestonwerner
+
+chris wanstrath
+
+p j hyett
+and scott chacon after it had been available for a few months as a
+beta release
+
+
+
+
+its name was chosen as a compound of
+git
+and
+hub
+
+
+
+
+structure of the organization
+
+edit
+
+github inc was originally a
+flat organization
+with no middle managers instead relying on
+selfmanagement
+
+
+
+
+employees could choose to work on projects that interested them
+open allocation
+but the chief executive set salaries
+
+
+
+in the company added a layer of
+middle management
+in response to harassment allegations against its cofounder and thenceo thomas prestonwerner and his wife theresa prestonwerner as a result of the scandal
+tom prestonwerner
+resigned from his position as ceo
+
+
+
+cofounder and product lead
+chris wanstrath
+became ceo
+julio avalos
+then general counsel and administrative officer assumed control over githubs business operations and daytoday management
+
+
+
+finance
+
+edit
+
+github was a
+bootstrapped
+startup business
+which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees
+
+
+
+in july four years after the company was founded
+andreessen horowitz
+invested million in
+venture capital
+
+
+
+with a million valuation
+
+
+
+in july github raised another million million in of venture capital in a
+series b round
+the lead investor was
+sequoia capital
+and other investors were
+andreessen horowitz
+
+thrive capital
+ivp institutional venture partners and other venture capital funds
+
+
+
+
+
+
+the company was then valued at approximately billion
+
+
+
+as of
+
+github was estimated to generate billion in revenue annually
+
+
+
+history
+
+edit
+
+the github service was developed by
+chris wanstrath
+
+p j hyett
+
+tom prestonwerner
+and scott chacon using
+ruby on rails
+and started in february the company github inc was formed in and is located in san francisco
+
+
+
+github at aws summit
+the shading of the map illustrates the number of users as a proportion of each countrys
+internet population
+the circular charts surrounding the two hemispheres depict the total number of github users left and commits right per country
+on february github announced that within the first year of being online github had accumulated over public repositories of which were formed in the previous month at that time about repositories had been
+forked
+at least once and had been merged
+that same year the site was used by over users according to github
+
+
+
+and had grown to host unique public repositories having been forked at least once for a total of repositories
+
+
+
+in github was hosting million repositories
+
+
+
+a year later this number doubled
+
+
+
+readwriteweb
+reported that github had surpassed
+sourceforge
+and
+google code
+in total number of commits for the period of january to may
+
+
+
+on january github passed the million users mark and was then hosting more than million repositories
+
+
+
+by the end of the year the number of repositories was twice as great reaching million repositories
+
+
+
+in github opened an office in japan its first outside of the us
+
+
+
+on february github fell victim to the thirdlargest
+distributed denialofservice
+ddos attack in history with incoming traffic reaching a peak of about terabits per second
+
+
+
+on june github expanded its github education by offering free education bundles to all schools
+
+
+
+
+
+
+acquisition by microsoft
+
+edit
+
+microsoft was on top of the list of the ten organizations with the most opensource contributors on github in
+
+
+
+from
+microsoft
+became a significant user of github using it to host opensource projects and development tools such as
+net core
+
+chakra core
+
+msbuild
+
+powershell
+
+powertoys
+
+visual studio code
+
+windows calculator
+
+windows terminal
+and the bulk of its product documentation now to be found on
+microsoft docs
+
+
+
+
+
+
+
+on june microsoft announced its intent to acquire github for us billion billion in the deal closed on october
+
+
+
+github continued to operate independently as a community platform and business
+
+
+
+under microsoft the service was led by
+xamarin
+s
+nat friedman
+reporting to
+scott guthrie
+executive vice president of microsoft cloud and ai
+nat friedman
+resigned november he was replaced by thomas dohmke
+
+
+
+there have been concerns from developers kyle simpson
+javascript
+trainer and author and rafael laguna ceo at
+openxchange
+over microsofts purchase citing uneasiness over microsofts handling of previous acquisitions such as
+nokias mobile business
+and
+skype
+
+
+
+
+
+
+
+this acquisition was in line with microsofts business strategy under ceo
+satya nadella
+which has seen a larger focus on
+cloud computing
+services alongside the development of and contributions to opensource software
+
+
+
+
+
+
+
+
+
+harvard business review
+argued that microsoft was intending to acquire github to get access to its user base so it can be used as a
+loss leader
+to encourage the use of its other development products and services
+
+
+
+concerns over the sale bolstered interest in competitors
+bitbucket
+owned by
+atlassian
+
+gitlab
+and
+sourceforge
+owned by
+slashdot
+reported that they had seen spikes in new users intending to migrate projects from github to their respective services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in september github acquired
+semmle
+a code analysis tool
+
+
+
+in february github launched in india under the name github india private limited
+
+
+
+in march github announced that it was acquiring
+npm
+a javascript packaging vendor for an undisclosed sum of money
+
+
+
+the deal was closed on april
+
+
+
+in early july the github archive program was established to archive its opensource code in perpetuity
+
+
+
+mascot
+
+edit
+
+githubs
+mascot
+is an
+anthropomorphized
+octocat with five
+octopuslike arms
+
+
+
+
+
+
+
+the character was created by graphic designer
+simon oxley
+as
+clip art
+to sell on
+istock
+
+
+
+
+a website that enables designers to market
+royaltyfree
+digital images
+the illustration github chose was a character that oxley had named octopuss
+
+
+
+since github wanted octopuss for their logo a use that the istock license disallows they negotiated with oxley to buy exclusive rights to the image
+
+
+
+github renamed octopuss to octocat
+
+
+
+and trademarked the character along with the new name
+
+
+
+later github hired illustrator cameron mcefee to adapt octocat for different purposes on the website and promotional materials mcefee and various github users have since created hundreds of variations of the character which are available on
+the octodex
+
+
+
+
+
+
+
+services
+
+edit
+
+projects on github can be accessed and managed using the standard
+git
+commandline interface all standard git commands work with it github also allows users to browse public
+repositories
+on the site multiple desktop clients and git
+plugins
+are also available in addition the site provides
+social networking
+like functions such as feeds followers wikis using
+wiki software
+called
+gollum
+and a
+social network graph
+to display how developers work on their versions
+forks
+of a repository and what fork and branch within that fork is newest
+anyone can browse and download public repositories but only registered users can contribute content to repositories with a registered user account users can have discussions manage repositories submit contributions to others repositories and
+review changes to code
+github began offering limited private repositories at no cost in january limited to three contributors per project previously only public repositories were free
+
+
+
+
+
+
+
+
+
+on april github made all of the core github features free for everyone including private repositories with unlimited collaborators
+
+
+
+the fundamental software that underpins github is
+git
+itself written by
+linus torvalds
+creator of linux the additional software that provides the github user interface was written using
+ruby on rails
+and
+erlang
+by github inc developers wanstrath
+
+
+
+hyett and prestonwerner
+scope
+
+edit
+
+the primary purpose of github is to facilitate the
+version control
+and
+issue tracking
+aspects of software development labels milestones responsibility assignment and a search engine are available for issue tracking for version control git and by extension github allows
+pull requests
+to propose changes to the source code users who can review the proposed changes can see a diff between the requested changes and approve them in git terminology this action is called committing and one instance of it is a commit a history of all commits is kept and can be viewed at a later time
+in addition github supports the following formats and features
+documentation
+
+
+
+including automatically rendered
+readme
+files in a variety of
+markdown
+like file formats see
+readme on github
+
+wikis
+
+
+
+
+with some repositories consisting solely of wiki content these include curated lists of recommended software which have become known as awesome lists
+
+
+
+
+
+
+github codespaces an
+online ide
+providing users with a virtual machine intended to be a work environment to build and test code
+
+
+
+
+
+
+
+
+
+graphs pulse contributors commits code frequency punch card network members
+integrations directory
+
+
+
+email notifications
+
+
+
+discussions
+
+
+
+option to subscribe someone to notifications by
+mentioning
+them
+
+
+
+emojis
+
+
+
+nested
+tasklists
+within files
+visualization of
+geospatial
+data
+d render files can be previewed using an integrated stl file viewer that displays the files on a d canvas
+
+
+
+the viewer is powered by
+webgl
+and
+threejs
+
+support for previewing many common image formats including photoshops psd files
+pdf document viewer
+security alerts of known
+common vulnerabilities and exposures
+in different packages
+githubs terms of service do not require public software projects hosted on github to meet the
+open source definition
+the
+terms of service
+state by setting your repositories to be viewed publicly you agree to allow others to view and fork your repositories
+
+
+
+github enterprise
+
+edit
+
+github enterprise is a selfmanaged version of github with similar functionality it can be run on an organizations hardware or a cloud provider and has been available as of november
+
+
+
+
+in november source code for github enterprise server was leaked online in an apparent protest against dmca takedown of
+youtubedl
+according to github the source code came from github accidentally sharing the code with enterprise customers themselves not from an attack on github servers
+
+
+
+
+
+
+github pages
+
+edit
+
+in github introduced github pages a
+static
+web hosting service
+for
+blogs
+project documentation
+
+
+
+
+
+
+and books
+
+
+
+all github pages content is stored in a git repository as files served to visitors verbatim or in
+markdown
+format github is integrated with
+jekyll
+static website and blog generator and github continuous integration pipelines each time the content source is updated jekyll regenerates the website and automatically serves it via github pages infrastructure
+
+
+
+like the rest of github it includes free and paid service tiers websites generated through this service are hosted either as
+subdomains
+of the githubio domain or can be connected to custom
+domains
+bought through a thirdparty
+domain name registrar
+
+
+
+
+github pages supports https encryption
+
+
+
+
+
+
+github actions
+
+edit
+
+github actions was officially launched on november it was first announced in october at github universe as a way to automate workflows but the full general availability ga release came a year later in github actions
+
+
+
+which allows building
+continuous integration
+and
+continuous deployment
+pipelines for testing releasing and deploying software without the use of thirdparty websitesplatforms unlike many other cicd tools github actions launched with a marketplace where developers could share and reuse prebuilt actions eg testing linting deployments github wanted to reduce reliance on thirdparty services and keep developers within the github ecosystem github actions provided hosted runners linux windows macos that could dynamically scale eliminating the need for selfmanaged build servers
+gist
+
+edit
+
+github also operates a
+pastebin
+style site called
+gist
+which is for
+code snippets
+as opposed to github proper which is usually used for larger projects
+
+
+
+tom prestonwerner dbuted the feature at a ruby conference in
+
+
+
+gist builds on the traditional simple concept of a
+pastebin
+by adding version control for code snippets easy forking and
+tls encryption
+for private pastes because each gist is its own git repository multiple code snippets can be contained in a single page and they can be pushed and pulled using git
+
+
+
+unregistered users could upload gists until march when uploading gists was restricted to loggedin users reportedly to mitigate
+spamming
+on the page of recent gists
+
+
+
+gists
+urls
+use hexadecimal ids and edits to gists are recorded in a
+revision history
+which can show the text difference of thirty revisions per page with an option between a split and unified view like repositories gists can be forked starred ie publicly bookmarked and commented on the count of revisions stars and forks is indicated on the gist page
+
+
+
+education program
+
+edit
+
+github launched a new program called the github student developer pack to give students free access to more than a dozen popular development tools and services github partnered with
+bitnami
+
+crowdflower
+
+digitalocean
+dnsimple
+hackhands
+
+namecheap
+orchestrate screenhero
+sendgrid
+
+stripe
+
+travis ci
+and
+unreal engine
+to launch the program
+
+
+
+in github announced the launch of the github campus experts program
+
+
+
+to train and encourage students to grow technology communities at their universities the campus experts program is open to university students years and older worldwide
+
+
+
+github campus experts are one of the primary ways that github funds studentoriented events and communities campus experts are given access to training funding and additional resources to run events and grow their communities to become a campus expert applicants must complete an online training course with multiple modules to develop community leadership skills
+github marketplace service
+
+edit
+
+github also provides some
+software as a service
+saas integrations for adding extra features to projects those services include
+waffleio project management for software teams which allows users to automatically see pull requests automated builds reviews and deployments across repositories
+
+
+
+rollbar provides realtime debugging tools and fullstack exception reporting
+
+
+
+
+
+
+codebeat automated code analysis for web and mobile developers
+
+citation needed
+
+travis ci
+
+continuous integration
+service
+
+citation needed
+
+gitlocalize provides utilities to manage project translation and internationalisation
+
+citation needed
+
+github sponsors
+
+edit
+
+github sponsors allows users to make monthly money donations to projects hosted on github
+
+
+
+the public beta was announced on may and the project accepts waitlist registrations
+the verge
+said that github sponsors works exactly like
+patreon
+because developers can offer various funding tiers that come with different perks and theyll receive recurring payments from supporters who want to access them and encourage their work except with zero fees to use the program furthermore github offers incentives for early adopters during the first year it pledges to cover payment processing costs and match sponsorship payments up to per developer furthermore users can still use similar services like patreon and open collective and link to their websites
+
+
+
+
+
+
+github archive program
+
+edit
+
+main article
+github archive program
+in july github stored a february archive of the site
+
+
+
+in an abandoned mountain mine in
+svalbard
+norway part of the
+arctic world archive
+and not far from the
+svalbard global seed vault
+the archive contained the code of all active public repositories as well as that of dormant but significant public repositories the
+tb
+of data was stored on
+piqlfilm
+archival film reels as
+matrix d barcode
+
+boxing barcode
+and is expected to last years
+
+
+
+
+
+
+
+
+
+
+
+
+the github archive program is also working with partners on project silica in an attempt to store all public repositories for years it aims to write archives into the molecular structure of
+quartz glass
+platters using a highprecision
+petahertz
+pulse laser ie one that pulses a
+quadrillion
+times per second
+
+
+
+controversies
+
+edit
+
+this articles
+criticism or controversy section
+may compromise the articles
+neutrality
+
+please help rewrite or integrate negative information to other sections
+through discussion
+on the
+talk page
+
+
+april
+
+harassment allegations
+
+edit
+
+in march github programmer julie ann horvath alleged that founder and ceo tom prestonwerner and his wife theresa engaged in a pattern of
+harassment
+against her that led to her leaving the company
+
+
+
+in april github released a statement denying horvaths allegations
+
+
+
+
+
+
+
+
+
+however following an internal investigation github confirmed the claims githubs ceo chris wanstrath wrote on the company blog the investigation found tom prestonwerner in his capacity as githubs ceo acted inappropriately including confrontational conduct disregard of workplace complaints insensitivity to the impact of his spouses presence in the workplace and failure to enforce an agreement that his spouse should not work in the office
+
+
+
+prestonwerner subsequently resigned from the company
+
+
+
+the firm then announced it would implement new initiatives and trainings to make sure employee concerns and conflicts are taken seriously and dealt with appropriately
+
+
+
+sanctions
+
+edit
+
+on july a developer based in iran wrote on
+medium
+that github had blocked his private repositories and prohibited access to github pages
+
+
+
+soon after github confirmed that it was now blocking developers in
+iran
+
+crimea
+
+cuba
+
+north korea
+and
+syria
+from accessing private repositories
+
+
+
+however github reopened access to github pages days later for public repositories regardless of location it was also revealed that using github while visiting sanctioned countries could result in similar actions occurring on a users account github responded to complaints and the media through a spokesperson saying
+github is subject to us trade control laws and is committed to full compliance with applicable law at the same time githubs vision is to be the global platform for
+developer
+collaboration no matter where developers reside as a result we take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law this includes keeping public repositories services including those for open source projects available and accessible to support personal communications involving developers in sanctioned regions
+
+
+
+
+
+
+developers who feel that they should not have restrictions can appeal for the removal of said restrictions including those who only travel to and do not reside in those countries github has forbidden the use of
+vpns
+and
+ip proxies
+to access the site from sanctioned countries as purchase history and ip addresses are how they flag users among other sources
+
+
+
+censorship
+
+edit
+
+main article
+censorship of github
+on december russia blacklisted githubcom because github initially refused to take down userposted suicide manuals
+
+
+
+after a day russia withdrew its block
+
+
+
+and github began blocking specific content and pages in russia
+
+
+
+on december india blocked githubcom along with other websites over pro
+isis
+content posted by users
+
+
+
+the block was lifted three days later
+
+
+
+on october turkey blocked github to prevent email leakage of a hacked account belonging to the countrys energy minister
+
+
+
+on march a largescale
+ddos
+attack was launched against githubcom that lasted for just under five days
+
+
+
+the attack which appeared to originate from china primarily targeted githubhosted user content describing methods of
+circumventing internet censorship
+
+
+
+
+
+
+
+
+
+
+on april chinese police detained chen mei and cai wei volunteers for terminus a project hosted on github and accused them of picking quarrels and provoking trouble cai and chen archived news articles interviews and other materials published on chinese media outlets and social media platforms that have been removed by censors in china
+
+
+
+ice contract
+
+edit
+
+see also
+microsoft and unions united states
+github has a contract with
+us immigration and customs enforcement
+ice for the use of their onsite product github enterprise server this contract was renewed in despite internal opposition from many github employees in an email sent to employees later posted to the github blog on october ceo
+nat friedman
+stated the revenue from the purchase is less than and not financially material for our company he announced that github had pledged to donate to nonprofit groups supporting immigrant communities targeted by
+the current administration
+
+
+
+
+in response at least github employees signed an open letter restating their opposition to the contract and denouncing alleged human rights abuses by ice as of november
+
+five workers had resigned over the contract
+
+
+
+
+
+
+
+
+
+the ice contract dispute came into focus again in june due to the companys decision
+to abandon masterslave branch terminology
+spurred by the george floyd protests and
+black lives matter
+movement
+
+
+
+detractors of github describe the branch renaming to be a form of
+performative activism
+and have urged github to cancel their ice contract instead
+
+
+
+an open letter from members of the open source community was shared on github in december demanding that the company drop its contract with ice and provide more transparency into how they conduct business and partnerships the letter has been signed by more than people
+
+
+
+capitol riot comments and employee firing
+
+edit
+
+in january github fired one of its employees after he expressed concern for colleagues following the
+january united states capitol attack
+calling some of the rioters
+nazis
+
+
+
+
+after an investigation githubs coo said there were significant errors of judgment and procedure with the companys decision to fire the employee as a result of the investigation github reached out to the employee and the companys head of human resources resigned
+
+
+
+
+
+
+twitter source code leak
+
+edit
+
+in parts of the social media platform
+twitter
+were uploaded onto github the leak was first reported by the
+new york times
+and was part of a legal filing twitter submitted to the
+united states district court for the northern district of california
+twitter claimed that the postings infringed on copyright property owned by them and asked the court for information to identify the user who posted the source code to github under the username freespeechenthusiast
+
+
+
+reception
+
+edit
+
+in
+linus torvalds
+the original developer of git highly praised github stating the hosting of github
+sic
+is excellent theyve done a good job on that i think github should be commended enormously for making open source project hosting so easy however he also sharply criticized the implementation of githubs merging interface saying git comes with a nice pullrequest generation module but github instead decided to replace it with their own totally inferior version as a result i consider github useless for these kinds of things its fine for hosting but the pull requests and the online commit editing are just pure garbage
+
+
+
+
+
+
+see also
+
+edit
+
+computer programming portal
+free and opensource software portal
+collaborative innovation network
+collaborative intelligence
+commonsbased peer production
+comparison of source code hosting facilities
+devops
+gitea
+gitlab
+codeberg
+timeline of github
+github copilot
+replit
+references
+
+edit
+
+
+new year new company
+
+github
+
+
+a
+b
+microsoft says github now has a b arr m active users
+
+techcrunch
+october
+archived
+from the original on march
+retrieved
+march
+
+
+
+github diversity
+
+github
+
+archived
+from the original on march
+retrieved
+november
+
+
+
+ipv support for cloning git repositories community discussion
+
+github
+retrieved
+december
+
+
+
+dig noquestion noauthority aaaa githubcom
+
+isgithubipvlive
+retrieved
+december
+
+
+
+github
+
+github
+
+archived
+from the original on march
+retrieved
+september
+
+
+
+github built a new search engine for code from scratch in rust
+
+zdnet
+retrieved
+april
+
+
+
+a
+b
+williams alex
+github pours energies into enterprise raises million from power vc
+
+techcrunch
+
+archived
+from the original on september
+retrieved
+june
+
+
+andreessen horowitz is investing an eyepopping million into github
+
+a
+b
+microsoft has acquired github for b in stock
+
+techcrunch
+june
+archived
+from the original on october
+retrieved
+june
+
+
+
+the problem with putting all the worlds code in github
+
+wired
+june
+archived
+from the original on june
+retrieved
+june
+
+
+
+dohmke thomas january
+million developers and counting
+
+the github blog
+retrieved
+january
+
+
+
+github number of repositories
+
+github
+retrieved
+february
+
+
+
+repository search for public repositories
+
+github
+
+archived
+from the original on november
+retrieved
+june
+
+
+showing available repository results
+
+computer express october
+github embraces developer choice with multimodel copilot new app tool github spark and ainative developer experience
+
+express computer
+retrieved
+october
+
+
+
+weis kristina february
+github ceo and cofounder chris wanstrath keynoting esris devsummit
+
+archived
+from the original on march
+retrieved
+february
+
+
+in they began working on github as a side project
+
+prestonwerner tom october
+github turns one
+
+github
+
+archived
+from the original on april
+retrieved
+march
+
+
+
+wanstrath chris december
+the first commit was on a friday night in october around pm
+
+archived
+from the original on march
+retrieved
+november
+
+
+
+a
+b
+catone josh july
+github gist is pastie on steroids
+
+archived
+from the original on march
+retrieved
+february
+
+
+github hosts about projects and officially launched in april of this year after a beta period of a few months
+
+tech talk linus torvalds on git at
+may
+archived
+from the original on december
+retrieved
+october
+
+via
+youtube
+
+
+tomayko ryan april
+show how dont tell what a management style
+
+archived
+from the original on december
+retrieved
+august
+
+
+
+hardy quentin december
+dreams of open everything
+
+new york times
+
+archived
+from the original on november
+retrieved
+february
+
+
+
+evelyn rusli july
+harassment claims make startup github grow up
+
+the wall street journal
+
+archived
+from the original on june
+retrieved
+july
+
+
+
+github is undergoing a fullblown overhaul as execs and employees depart and we have the full inside story
+
+
+michael carney june
+github ceo explains why the company took so damn long to raise venture capital
+
+pandodaily
+
+archived
+from the original on december
+retrieved
+july
+
+
+
+github pours energies into enterprise raises million from power vc andreessen horowitz
+
+techcrunch
+july
+archived
+from the original on august
+retrieved
+february
+
+
+
+lardinois frederic july
+github raises m series b round to take risks
+
+techcrunch
+
+archived
+from the original on november
+retrieved
+july
+
+
+
+github raises m series b round led by sequoia capital
+
+techcrunch
+july
+archived
+from the original on august
+retrieved
+february
+
+
+
+github raises million in new funding now valued at billion
+
+fortune
+july
+archived
+from the original on august
+retrieved
+july
+
+
+
+neumann alexander june
+github populrer als sourceforge und google code
+
+heise developer
+
+archived
+from the original on august
+retrieved
+june
+
+
+
+hyett p j july
+users
+
+the github blog
+retrieved
+may
+
+
+
+dascalescu dan november
+the pita threshold github vs cpan
+
+dan dascalescus wiki
+archived from
+the original
+on june
+retrieved
+february
+
+
+
+holman zach july
+one million repositories
+
+github blog
+
+archived
+from the original on march
+retrieved
+april
+
+
+
+neath kyle april
+those are some big numbers
+
+github blog
+
+archived
+from the original on april
+retrieved
+april
+
+
+
+klint finley june
+github has surpassed sourceforge and google code in popularity
+
+readwrite
+
+archived
+from the original on august
+retrieved
+february
+
+
+during the period black duck examined github had commits sourceforge had google code and and codeplex had
+
+wauters robin april
+codesharing site github turns five and hits million users million repositories
+thenextweb
+archived
+from the original on september
+retrieved
+april
+
+
+
+doll brian december
+million repositories
+the github blog
+archived
+from the original on october
+retrieved
+december
+
+
+
+russell jon june
+github expands to japan its first office outside the us
+techcrunch
+
+archived
+from the original on october
+retrieved
+june
+
+
+
+github survived the biggest ddos attack ever recorded
+
+wiredcom
+
+archived
+from the original on december
+retrieved
+march
+
+
+
+hughes matthew june
+githubs free education bundle is now available to all schools
+
+the next web
+
+archived
+from the original on november
+retrieved
+july
+
+
+
+github education is a free software development package for schools
+
+engadget
+
+archived
+from the original on june
+retrieved
+july
+
+
+
+the state of the octoverse
+archived from
+the original
+on april
+
+microsoft confirms it will acquire github for billion
+
+venturebeat
+june
+archived
+from the original on november
+retrieved
+june
+
+
+
+a
+b
+microsoft confirms it will acquire github for billion
+
+the verge
+
+archived
+from the original on november
+retrieved
+june
+
+
+
+warren tom october
+microsoft completes github acquisition
+
+the verge
+vox
+archived
+from the original on november
+retrieved
+july
+
+
+
+microsoft to acquire github for billion
+
+stories
+june
+archived
+from the original on june
+retrieved
+january
+
+
+
+nat friedman november
+thank you github
+github blog
+archived
+from the original on may
+retrieved
+may
+
+
+
+warren tom
+heres what github developers really think about microsofts acquisition
+
+the verge
+
+archived
+from the original on november
+retrieved
+august
+
+
+
+merriman chris
+microsoft has snapped up github and the internet has feelings theinquirer
+
+the inquirer
+archived from the original on december
+retrieved
+august
+
+
+
+horwitz josh
+github users are already fuming about the companys sale to microsoft
+
+quartz
+
+archived
+from the original on august
+retrieved
+june
+
+
+
+why microsoft is willing to pay so much for github
+
+harvard business review
+june
+archived
+from the original on november
+retrieved
+june
+
+
+
+reasons why teams are switching from github to bitbucket after microsoft acquisition
+
+archived
+from the original on july
+retrieved
+june
+
+
+
+tung liam
+github rivals gain from microsoft acquisition but its no mass exodus yet
+
+zdnet
+
+archived
+from the original on november
+retrieved
+june
+
+
+
+if microsoft buying github freaks you out here are your best alternatives
+
+techrepublic
+
+archived
+from the original on november
+retrieved
+june
+
+
+
+github importer
+
+sourceforge
+
+archived
+from the original on december
+retrieved
+june
+
+
+
+mathews jennifer
+github vs gitlab
+
+github resources
+github
+archived
+from the original on june
+retrieved
+may
+
+
+
+lardinois frederic september
+github acquires code analysis tool semmle
+
+techcrunch
+
+archived
+from the original on january
+retrieved
+december
+
+
+
+mehta ivan february
+github launches an indian subsidiary to boost its developer community
+
+the next web
+
+archived
+from the original on october
+retrieved
+march
+
+
+
+github is acquiring npm a service used by million developers
+
+business insider
+march
+archived
+from the original on september
+retrieved
+march
+
+
+
+epling jeremy april
+npm has joined github
+
+github
+github inc
+archived
+from the original on november
+retrieved
+july
+
+
+
+a
+b
+github archive program the journey of the worlds open source code to the arctic
+
+the github blog
+july
+archived
+from the original on november
+retrieved
+july
+
+
+
+a
+b
+github octodex faq
+
+githubcom
+archived from
+the original
+on november
+retrieved
+september
+
+
+
+jaramillo tony november
+from sticker to sculpture the making of the octocat figurine
+
+the github blog
+github
+archived
+from the original on march
+retrieved
+april
+
+
+
+a
+b
+c
+d
+deamicis carmel july
+original github octocat designer simon oxley on his famous creation i dont remember drawing it
+
+
+pandodaily
+
+archived
+from the original on december
+retrieved
+april
+
+
+
+mcefee cameron may
+the octocata nerdy household name
+
+cameronmcefeecom
+cameron mcefee
+archived
+from the original on november
+retrieved
+april
+
+
+
+goldman david
+what is that thing behind satya nadella in the github photo
+
+cnnmoney
+
+archived
+from the original on january
+retrieved
+july
+
+
+
+microsoftowned github just made it free for coders to keep projects private in small teams
+
+fortune
+
+archived
+from the original on march
+retrieved
+june
+
+
+
+zhou marrian
+github is giving free users unlimited private repositories
+
+cnet
+
+archived
+from the original on march
+retrieved
+june
+
+
+
+chan rosalie
+github makes its first major move since microsoft bought it for billion and its something customers have long been asking for
+
+business insider
+
+archived
+from the original on march
+retrieved
+june
+
+
+
+friedman nat april
+github is now free for teams
+
+githubblog
+
+archived
+from the original on april
+
+interview with chris wanstrath
+doeswhatcom march archived from
+the original
+on march
+retrieved
+february
+
+
+
+githubcom help documentation
+
+github docs
+
+archived
+from the original on november
+retrieved
+september
+
+
+
+about wikis
+
+github docs
+
+archived
+from the original on september
+retrieved
+september
+
+
+
+montini leonardo may
+the awesome side of github awesome lists
+retrieved
+september
+
+
+
+tashia t june
+most popular github repositories every developer should know
+hostfinger
+retrieved
+september
+
+
+
+github codespaces documentation
+
+github docs
+archived from
+the original
+on october
+retrieved
+august
+
+
+
+github codespaces github
+
+github
+retrieved
+august
+
+
+
+github codespaces documentation github docs
+
+github docs
+retrieved
+august
+
+
+
+integrations directory
+
+github
+
+archived
+from the original on march
+retrieved
+april
+
+
+
+about email notifications for pushes to your repository
+
+github docs
+
+archived
+from the original on september
+retrieved
+september
+
+
+
+github discussions documentation
+
+github docs
+
+archived
+from the original on september
+retrieved
+september
+
+
+
+mention somebody theyre notified
+
+github
+march
+archived
+from the original on march
+retrieved
+april
+
+
+
+github help categories writing on github
+githubcom
+archived
+from the original on march
+retrieved
+april
+
+
+
+weinhoffer eric april
+github now supports stl file viewing
+
+archived
+from the original on march
+retrieved
+february
+
+
+
+github terms of service user documentation
+helpgithubcom february
+archived
+from the original on june
+retrieved
+december
+
+
+
+introducing github enterprise
+archived
+march at the
+wayback machine
+github
+
+salter jim november
+githubs source code was leaked on github last night sort of
+
+ars technica
+
+archived
+from the original on march
+retrieved
+november
+
+
+
+cimpanu catalin
+github denies getting hacked
+
+zdnet
+
+archived
+from the original on march
+retrieved
+november
+
+
+
+bell peter beer brent november
+introducing github a nontechnical guide
+oreilly media inc
+isbn
+
+
+archived
+from the original on august
+retrieved
+june
+
+
+
+pipinellis achilleas september
+github essentials
+packt publishing ltd
+isbn
+
+
+archived
+from the original on august
+retrieved
+june
+
+
+
+xie yihui december
+bookdown authoring books and technical documents with r markdown
+crc press
+isbn
+
+
+archived
+from the original on august
+retrieved
+june
+
+
+
+build a blog with jekyll and github pages
+
+smashing magazine
+august
+archived
+from the original on december
+retrieved
+june
+
+
+
+sawant uday r june
+ubuntu server cookbook
+packt publishing ltd
+isbn
+
+
+archived
+from the original on august
+retrieved
+june
+
+
+
+all github pages sites including sites correctly configured with a custom domain support https and https enforcement
+securing your github pages site with https
+
+helpgithubcom
+github
+archived
+from the original on march
+retrieved
+june
+
+
+
+custom domains on github pages gain support for https
+moore parker may
+custom domains on github pages gain support for https
+
+githubblog
+github
+archived
+from the original on march
+retrieved
+june
+
+
+
+what is github actions github actions
+pdf
+
+github
+
+archived
+pdf
+from the original on december
+retrieved
+december
+
+
+
+prestonwerner tom
+july
+gods memory leak a scientific treatment
+
+rubyfringe
+
+archived
+from the original on january
+retrieved
+october
+
+
+he previewed the upcoming git feature gist
+
+creating gists
+
+github docs
+
+archived
+from the original on december
+retrieved
+december
+
+
+
+deprecation notice removing anonymous gist creation
+
+the github blog
+february
+archived
+from the original on march
+retrieved
+september
+
+
+
+build software better together
+
+archived
+from the original on november
+retrieved
+november
+
+
+
+lardinois frederic october
+github partners with digital ocean unreal engine others to give students free access to developer tools
+
+techcrunch
+
+archived
+from the original on march
+retrieved
+october
+
+
+
+github campus experts technology leadership at your school
+
+the github blog
+june
+archived
+from the original on january
+retrieved
+january
+
+
+
+github campus experts
+
+github education
+
+archived
+from the original on april
+retrieved
+january
+
+
+
+doerrfeld bill august
+how to put github actions to work for your software team
+
+archived
+from the original on august
+retrieved
+august
+
+
+
+rollbar provides new and updated software development kits
+
+database trends and applications
+april
+archived
+from the original on august
+retrieved
+august
+
+
+
+former lolapps engineers launch rollbar an errortracking platform for developers that has a sense of history
+
+techcrunch
+february
+archived
+from the original on january
+retrieved
+august
+
+
+
+github sponsors
+
+github
+
+archived
+from the original on march
+retrieved
+may
+
+
+
+kastrenakes jacob may
+github launches sponsors a patreonstyle funding tool for developers
+
+the verge
+
+archived
+from the original on march
+retrieved
+may
+
+
+
+announcing github sponsors a new way to contribute to open source
+
+the github blog
+may
+archived
+from the original on march
+retrieved
+may
+
+
+
+github has stored its code in an arctic vault it hopes will last years
+
+gizmodo
+july
+archived
+from the original on october
+retrieved
+july
+
+
+
+canales katie july
+github the worlds largest opensource software site just had mounds of data stored in the permafrost chamber of an old coal mine deep in an arctic mountain for years
+
+msn
+microsoft
+archived
+from the original on october
+retrieved
+july
+
+
+
+truong kevin july
+terabytes of open source code is now stored in an arctic vault
+
+vicecom
+vice media
+archived
+from the original on march
+retrieved
+july
+
+
+
+a
+b
+byrne nate august
+buried deep in the ice is the github code vault
+
+abc news
+australian broadcasting corporation
+archived
+from the original on november
+retrieved
+august
+
+
+
+biddle sam tiku nitasha march
+meet the married duo behind techs biggest new harassment scandal
+
+vallywag
+gawker archived from
+the original
+on march
+retrieved
+march
+
+
+
+results of the github investigation
+
+the github blog
+april
+archived
+from the original on july
+retrieved
+july
+
+
+
+miller claire cain april
+github founder resigns after investigation
+
+bits
+the new york times
+archived
+from the original on march
+retrieved
+february
+
+
+
+wilhelm alex april
+github denies allegations of genderbased harassment cofounder prestonwerner resigns
+
+techcrunch
+
+archived
+from the original on march
+retrieved
+june
+
+
+
+follow up to the investigation results
+
+github
+april
+archived
+from the original on march
+retrieved
+november
+
+
+
+a
+b
+mcmillan robert april
+github founder steps down after harassment probe
+
+wired
+
+issn
+
+
+archived
+from the original on march
+retrieved
+october
+
+
+
+saeedi fard hamed july
+github blocked my account and they think im developing nuclear weapons
+
+medium
+
+archived
+from the original on august
+retrieved
+august
+
+
+
+github confirms it has blocked developers in iran syria and crimea
+
+techcrunch
+july
+archived
+from the original on january
+retrieved
+august
+
+
+
+tung liam
+github starts blocking developers in countries facing us trade sanctions
+
+zdnet
+
+archived
+from the original on september
+retrieved
+august
+
+
+
+porter jon july
+github restricts developer accounts based in iran crimea and other countries under us sanctions
+
+the verge
+
+archived
+from the original on august
+retrieved
+august
+
+
+
+github and trade controls
+
+github help
+
+archived
+from the original on august
+retrieved
+august
+
+
+
+russia blacklists blocks github over pages that refer to suicide
+
+techcrunch
+
+archived
+from the original on july
+retrieved
+june
+
+
+
+mcmillan robert
+russias creeping descent into internet censorship
+
+wired
+
+archived
+from the original on june
+retrieved
+june
+
+
+
+to get off russias blacklist github has blocked access to pages that highlight suicide
+
+techcrunch
+december
+archived
+from the original on january
+retrieved
+october
+
+
+
+github vimeo and more sites blocked in india over content from isis
+the next web december
+archived
+from the original on march
+retrieved
+february
+
+
+
+wright mic january
+india lifts blocks on github weebly dailymotion and vimeo
+
+the next web
+
+archived
+from the original on march
+retrieved
+october
+
+
+
+turkey blocked github and dropbox to hide leaks reports
+october
+archived
+from the original on march
+retrieved
+october
+
+
+
+large scale ddos attack on githubcom
+github march
+archived
+from the original on march
+retrieved
+march
+
+
+
+last night github was hit with massive denialofservice attack from china
+
+the verge
+march
+archived
+from the original on march
+retrieved
+march
+
+
+
+us coding website github hit with cyberattack
+
+the wall street journal
+march
+archived
+from the original on march
+retrieved
+march
+
+
+
+massive denialofservice attack on github tied to chinese government
+
+ars technica
+march
+archived
+from the original on march
+retrieved
+april
+
+
+
+human rights watch april
+china free covid activists citizen journalists
+
+archived from
+the original
+on august
+retrieved
+august
+
+
+
+github and us government developers
+
+the github blog
+github october
+archived
+from the original on march
+retrieved
+october
+
+
+
+as githubs conference begins five employees resign over ice contract
+
+vice
+november
+archived
+from the original on march
+retrieved
+november
+
+
+
+ghaffary shirin october
+github is the latest tech company to face controversy over its contracts with ice
+
+vox
+
+archived
+from the original on march
+retrieved
+november
+
+
+
+letter from github employees to ceo about the companys ice contract
+
+the washington post
+october
+archived
+from the original on march
+retrieved
+november
+
+
+
+github abandons master term to avoid slavery row
+
+bbc news
+june
+archived
+from the original on march
+retrieved
+july
+
+
+
+hussain suhauna bhuiyan johana june
+after github ceo backs black lives matter workers demand an end to ice contract
+
+los angeles times
+
+archived
+from the original on march
+retrieved
+july
+
+
+
+truong kevin july
+the open source community is calling on github to drop ice
+
+
+vice
+
+archived
+from the original on march
+retrieved
+october
+
+
+
+chan rosalie january
+exclusive github is facing employee backlash after the firing of a jewish employee who suggested nazis are about on the day of the us capitol siege
+
+business insider
+
+archived
+from the original on march
+retrieved
+january
+
+
+
+dickey megan rose january
+fired github employee who warned coworkers about nazis is seeking legal counsel
+
+techcrunch
+
+archived
+from the original on march
+retrieved
+january
+
+
+
+higginsdunn noah january
+github head of hr resigns after investigation into firing of jewish employee over capitol riot comments
+cnbc
+archived
+from the original on january
+retrieved
+january
+
+
+
+dinnocenzio anne march
+twitter hunts github user who posted source code online
+ap news
+retrieved
+march
+
+
+
+mcmillan robert may
+linus torvalds invented git but he pulls no patches with github
+
+wired
+
+issn
+
+
+archived
+from the original on december
+retrieved
+january
+
+
+
+tim anderson september
+github merges useless garbage says linus torvalds as new ntfs support added to linux kernel
+
+the register
+
+archived
+from the original on january
+retrieved
+january
+
+
+external links
+
+edit
+
+wikidata
+has the property
+github username p
+see
+uses
+
+wikimedia commons has media related to
+github
+
+official website
+v
+t
+e
+microsoft corporation
+history
+outline
+people
+founders
+bill gates
+paul allen
+board of directors
+satya nadella
+chairman and ceo
+reid hoffman
+catherine macgregor
+sandi peterson
+penny pritzker
+carlos a rodriguez
+charles scharf
+john w stanton
+john w thompson
+emma walmsley
+padmasree warrior
+senior leadership team
+satya nadella
+ceo
+takeshi numoto cmo
+scott guthrie
+carolina dybeck happe
+coo
+amy hood
+cfo
+kevin scott
+cto
+brad smith
+clo
+harry shum
+phil spencer
+kathleen hogan
+cpo
+corporate vps
+joe belfiore
+richard rashid
+svp
+csar cernuda
+employee groups
+global lgbtqia employee allies at microsoft
+microsoft and unions
+products
+hardware
+azure kinect
+hololens
+lifecam
+surface
+duo
+go
+hub
+laptop
+laptop go
+neo
+pro
+studio
+xbox
+software
+clipchamp
+dynamics
+havok
+microsoft
+office
+teams
+open source software
+power platform
+servers
+start
+tay
+visual studio
+visual studio code
+windows
+xbox os
+programming
+languages
+basic
+vbnet
+vba
+vbscript
+visual basic
+c
+cal aka navision attain
+f
+mvpl
+power fx
+powershell
+q
+transactsql
+typescript
+visual j
+visual j
+web properties
+azure
+bing
+copilot
+github
+learn
+channel
+developer network
+technet
+linkedin
+linkedin learning
+msn
+outlookcom
+store
+translator
+company
+conferences
+build
+ignite
+inspire
+mix
+pdc
+winhec
+divisions
+net foundation
+digital crimes unit
+engineering groups
+mobile
+skype unit
+gaming
+activision blizzard
+xbox game studios
+zenimax media
+garage
+outercurve foundation
+press
+research
+retail stores
+estates
+microsoft campus
+microsoft india
+microsoft japan
+campaigns
+
+where do you want to go today
+
+
+champagne
+
+
+mojave experiment
+
+
+im a pc
+
+
+scroogled
+
+criticism
+bundling of microsoft windows
+clippy
+iloo
+internet explorer
+microsoft bob
+nsakey
+windows
+xp
+vista
+
+litigation
+apple v microsoft
+
+united states v microsoft
+
+microsoft v lindows
+
+microsoft v mikerowesoft
+
+microsoft v commission
+
+alcatellucent v microsoft
+
+microsoft v shah
+
+microsoft v united states
+
+ftc v microsoft
+
+acquisitions
+wunderkinder
+access software
+acompli
+activision blizzard
+acquisition
+altamira software
+altspacevr
+aquantive
+azyxxi
+beam
+the blue ribbon soundworks
+bungie
+clipchamp
+colloquis
+compulsion games
+connectix
+consumers software
+danger
+double fine
+farecast
+fasa studio
+fast search transfer
+firefly
+forethought
+giant company software
+github
+great plains software
+greenbutton
+groove networks
+havok group
+high heat major league baseball
+hotmail
+inxile entertainment
+jellyfishcom
+linkedin
+linkexchange
+lionhead studios
+maluuba
+massive incorporated
+metaswitch
+mobile data labs
+mojang studios
+ninja theory
+nokia devices and services
+npm
+nuance communications
+obsidian entertainment
+onfolio
+pando networks
+perceptive pixel
+placeware
+playground games
+powerset
+press play
+proclarity
+rare
+revolution analytics
+riskiq
+simplygon
+skype
+sunrise atelier
+swiftkey
+takelessons
+teleo
+tellme networks
+twisted pixel games
+undead labs
+vermeer technologies
+visio corporation
+vivaty
+volometrix
+vxtreme
+webtv networks
+winternals software
+xamarin
+xandr
+appnexus
+yammer
+yupi
+zenimax media
+category
+v
+t
+e
+microsoft
+free and opensource software foss
+overview
+microsoft and open source
+shared source initiative
+software
+applications
+d movie maker
+atom
+conference xp
+familyshow
+file manager
+open live writer
+microsoft powertoys
+terminal
+windows calculator
+windows console
+windows package manager
+worldwide telescope
+xml notepad
+video games
+allegiance
+programming
+languages
+bosque
+c
+dafny
+f
+f
+gwbasic
+ironpython
+ironruby
+lean
+p
+power fx
+powershell
+project verona
+q
+small basic online
+typescript
+visual basic
+frameworks
+development tools
+net
+net framework
+net gadgeteer
+net maui
+net micro framework
+airsim
+aspnet
+aspnet ajax
+aspnet core
+aspnet mvc
+aspnet razor
+aspnet web forms
+avalonia
+babylonjs
+bitfunnel
+blazor
+cwinrt
+ccf
+chakracore
+clr profiler
+dapr
+deepspeed
+diskspd
+dryad
+dynamic language runtime
+ebpf on windows
+electron
+entity framework
+fluent design system
+fluid framework
+infernet
+lightgbm
+managed extensibility framework
+microsoft automatic graph layout
+microsoft c standard library
+microsoft cognitive toolkit
+microsoft design language
+microsoft detours
+microsoft enterprise library
+microsoft seal
+mimalloc
+mixed reality toolkit
+mlnet
+modmono
+mono
+monodevelop
+msbuild
+msquic
+neural network intelligence
+npm
+nuget
+onefuzz
+open management infrastructure
+open neural network exchange
+open service mesh
+open xml sdk
+orleans
+playwright
+procdump
+procmon
+python tools for visual studio
+r tools for visual studio
+recursiveextractor
+roslyn
+sandcastle
+signalr
+stylecop
+svnbridge
+t temporal prover
+text template transformation toolkit
+tla toolbox
+uprove
+vcpkg
+virtual file system for git
+voldemort
+vott
+vowpal wabbit
+windows app sdk
+windows communication foundation
+windows driver frameworks
+kmdf
+umdf
+windows forms
+windows presentation foundation
+windows template library
+windows ui library
+winjs
+winobjc
+wix
+xdp for windows
+xsp
+xunitnet
+z theorem prover
+operating systems
+msdos
+v v v
+barrelfish
+sonic
+azure linux
+other
+chronozoom
+extensible storage engine
+flexwiki
+fourq
+gollum
+project mu
+reactivex
+silk
+tlaps
+tpm reference implementation
+wikibhasha
+licenses
+microsoft public license
+microsoft reciprocal license
+forges
+codeplex
+github
+related
+net foundation
+f software foundation
+microsoft open specification promise
+open letter to hobbyists
+open source security foundation
+outercurve foundation
+category
+v
+t
+e
+bug tracking systems
+years indicate the date of first stable release
+clientserver
+free software
+gnats
+
+
+
+debbugs
+
+
+
+
+
+bugzilla
+
+
+
+request tracker
+
+
+
+mantisbt
+
+
+
+roundup
+
+
+
+trac
+
+
+
+redmine
+
+
+
+apache allura
+
+
+
+maniphest
+
+
+
+tuleap
+
+
+
+gitlab
+
+
+
+apache bloodhound
+
+
+
+gitea
+
+
+
+codeberg
+
+
+
+proprietary
+helix alm
+formerly testtrack
+
+
+axosoft
+
+
+
+jira
+
+
+
+azure devops server
+
+
+
+youtrack
+
+
+
+distributed
+free software
+fossil
+
+
+
+proprietary
+azure devops server
+
+
+
+saas
+only
+sourceforge
+
+
+
+gnu savannah
+
+
+
+osdn
+
+
+
+launchpad
+
+
+
+assembla
+
+
+
+codeplex
+
+
+
+discontinued
+github
+
+
+
+bitbucket
+
+
+
+youtrack
+
+
+
+azure devops services
+
+
+
+category
+comparison
+retrieved from
+
+
+categories
+
+github
+mergers and acquisitions
+bug and issue tracking software
+cloud computing providers
+collaborative projects
+computing websites
+crossplatform software
+internet properties established in
+microsoft acquisitions
+microsoft subsidiaries
+microsoft websites
+opensource software hosting facilities
+project management software
+remote companies
+git repository hosting websites
+hidden categories
+pages using the phonos extension
+cs unfit url
+webarchive template wayback links
+articles with short description
+short description is different from wikidata
+use american english from september
+all wikipedia articles written in american english
+use mdy dates from september
+articles containing potentially dated statements from january
+all articles containing potentially dated statements
+infobox network service provider asn using wikidata
+pages including recorded pronunciations
+articles containing potentially dated statements from june
+articles containing potentially dated statements from
+articles containing potentially dated statements from november
+all articles with unsourced statements
+articles with unsourced statements from may
+articles with criticism or controversy sections from april
+all articles with criticism or controversy sections
+articles containing potentially dated statements from november
+commons category link from wikidata
+this page was last edited on may at
+utc
+
+text is available under the
+creative commons attributionsharealike license
+
+additional terms may apply by using this site you agree to the
+terms of use
+and
+privacy policy
+wikipedia is a registered trademark of the
+wikimedia foundation inc
+a nonprofit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+code of conduct
+developers
+statistics
+cookie statement
+mobile view
+search
+search
+toggle the table of contents
+github
+languages
+add topic
